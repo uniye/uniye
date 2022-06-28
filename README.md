@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uniye
-- 🌱 I’m currently learning python, C, kotlin
+- 🌱 I’m currently learning python, C, kotlin, ...
 - 📫 How to reach me uniye2260@gmail.com
 
 <!---
