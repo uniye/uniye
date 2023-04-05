@@ -3,3 +3,4 @@
       But! Currently, I'm focusing on learning C++ and C#. Because I wanna be a game client developer.
 - 📫 How to reach me uniye2260@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniyeID&show_icons=true&theme=radical)
