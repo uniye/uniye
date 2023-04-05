@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=uni%20ye&fontSize=90)
 
 
-- 👋 Hi, I’m @uniye
-- 🌱 I’m learning a lot of languages. ex) Python, Kotlin, Java ...
-      But! Currently, I'm focusing on learning C++ and C#. 
-      Because I wanna be a game client developer.
+- 🌱 저는 현재 대학교를 다니며 열심히 여러 언어를 배우고 있습니다. ex) Python, Kotlin, Java ...
+      최근에는 게임클라이언트 개발자가 되기를 결심하면서 C/C++, C#에 집중하고 있습니다.
+      유니티 게임을 하나 만드는 것으로 시작하려고요! 나중에는 얼리언 엔진도 다룰 생각입니다! 
+      백준도 열심히 풀면서 뇌를 말랑하게 하는 중입니다.
 - 📫 How to reach me uniye2260@gmail.com
 
 - 많이 부족한 실력이지만, 열심히 배우겠습니다!
