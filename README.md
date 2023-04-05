@@ -4,4 +4,4 @@
 - 📫 How to reach me uniye2260@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniye&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniye&show_icons=true&theme=great-gatsby)
