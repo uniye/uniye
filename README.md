@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=uni%20ye&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=uni%20ye&fontSize=90)
 
 
 - 👋 Hi, I’m @uniye
