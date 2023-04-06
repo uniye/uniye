@@ -19,4 +19,4 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=uniye2260)](https://solved.ac/profile/uniye2260)
 
 <br/><br/>✨소소하지만... 블로그도 운영중이에요✨<br/> 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://yes-dev.tistory.com/")
+<a href="https://yes-dev.tistory.com/"><img src="https://img.shields.io/badge/blog-yellow?style=flat-square&logo=000000&logoColor=white&link=https://yes-dev.tistory.com/"/></a> 
