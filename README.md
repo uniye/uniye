@@ -7,7 +7,7 @@
 백준도 열심히 풀면서 뇌를 말랑하게 하는 중입니다. 말랑정도가 아니지만요..🤕 <br/><br/>
 많이 부족한 실력이지만, 열심히 배우겠습니다! 저만의 게임을 만들 수 있는 날까지 달릴게요!
 
-<br/><br/><br/>
+<br/>
  
 <br/><br/>📎깃허브📎<br/>
 ![uniye's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniye&show_icons=true&theme=great-gatsby)
@@ -19,4 +19,4 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=uniye2260)](https://solved.ac/profile/uniye2260)
 
 <br/><br/>✨소소하지만... 블로그도 운영중이에요✨<br/> 
-[![Tistory Badge](https://img.shields.io/badge/blog-yellow)("https://yes-dev.tistory.com/")
+[![Tistory Badge](https://img.shields.io/badge/blog-yellow&link="https://yes-dev.tistory.com/")
