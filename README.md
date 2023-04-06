@@ -13,3 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniye&show_icons=true&theme=great-gatsby)
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=uniye2260)](https://solved.ac/profile/uniye2260)
