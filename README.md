@@ -21,4 +21,4 @@
 <br/><br/>✨소소하지만... 블로그도 운영중이에요✨<br/> 
 <a href="https://yes-dev.tistory.com/"><img src="https://img.shields.io/badge/blog-yellow?style=flat-square&logo=000000&logoColor=white&link=https://yes-dev.tistory.com/"/></a> 
 
-<br/>4월 19일 ~ 4월 28일: 중간고사
+<br/>2023-04-19 ~ 2023-04-28: 중간고사
